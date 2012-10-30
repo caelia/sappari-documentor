@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+
+<package>
+  <name>Documentor</name>
+  <version>0.1</version>
+  <license>BSD</license>
+  <author-name>Matt Gushee</author-name>
+  <author-contact type="email">matt@gushee.net</author-contact>
+  <release-date></release-date>
+  <classification>
+    <type>Extension</type>
+    <category>Documentation</category>
+  </classification>
+  <description>
+    Documentor is an extension to provide an online documentation
+    service for Sappari itself and for Sappari packages.
+  </description>
+  <dependencies>
+    <eggs>
+      <egg>lowdown</egg>
+    </eggs>
+  </dependencies>
+</package>
